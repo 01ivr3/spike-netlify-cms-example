@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: covingtondoan/spike-netlify-cms-example
+  repo: 01ivr3/spike-netlify-cms-example
   branch: master
 
 media_folder: "assets/img/uploads"
